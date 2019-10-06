@@ -1,2 +1,2 @@
-# TheSudoersFile.github.io
-GitHub Pages
+# thesudoersfile.github.io
+My GitHub Pages Site
